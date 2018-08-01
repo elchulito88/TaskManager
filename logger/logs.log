@@ -439,3 +439,7 @@
 2018-08-01 09:17:21 INFO      INSERT INTO metrics(Dates, total_time, label_description)
 						VALUES(2018-08-01, 15, CS Stand Up)
 2018-08-01 09:17:22 INFO     Data was written to csv!
+2018-08-01 10:15:48 INFO     Data was inserted!
+2018-08-01 10:15:48 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-01, 60, Customer Success Tech Exchange)
+2018-08-01 10:16:11 INFO     Data was written to csv!

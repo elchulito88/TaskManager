@@ -15,6 +15,6 @@ def run_backup(src_dir, dst_dir):
 
 if __name__ == '__main__':
 
-    s_dir = "E:/utilization/production/files"
+    s_dir = "E:/utilization/TaskManager/files"
     d_dir = "E:/utilization/backups/backup_files"
     run_backup(s_dir, d_dir)

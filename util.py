@@ -21,9 +21,9 @@ class utilizationApp():
 		self.db = 'utilization'
 		self.table = 'metrics'
 		self.drive = drive
-		self.db_file = self.drive + "/utilization/production/utilization"
+		self.db_file = self.drive + "/utilization/TaskManager/utilization"
 		self.backup_dir = self.drive +  "/utilization/backups/backup_db"
-		self.metric_file = self.drive + "/utilization/production/files"
+		self.metric_file = self.drive + "/utilization/TaskManager/files"
 		self.metric_backup_dir = self.drive + "/utilization/backups/backup_files"
 		self.logmanager = logmanager
 		drop_validation = 'Validated' if self.drop is None else self.drop_table()
