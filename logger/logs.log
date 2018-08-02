@@ -443,3 +443,23 @@
 2018-08-01 10:15:48 INFO      INSERT INTO metrics(Dates, total_time, label_description)
 						VALUES(2018-08-01, 60, Customer Success Tech Exchange)
 2018-08-01 10:16:11 INFO     Data was written to csv!
+2018-08-01 10:28:35 INFO     Data was inserted!
+2018-08-01 10:28:35 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-01, 60, Admin Time - Research)
+2018-08-01 10:28:48 INFO     Data was written to csv!
+2018-08-01 10:29:02 INFO     Data was removed!
+2018-08-01 10:29:02 INFO      DELETE from metrics WHERE id = 16
+2018-08-01 10:29:07 INFO     Data was inserted!
+2018-08-01 10:29:07 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-01, 30, Admin Time - Research)
+2018-08-02 07:39:43 INFO     Data was inserted!
+2018-08-02 07:39:43 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-01, 15, Admin Time - Coffee)
+2018-08-02 07:39:53 INFO     Data was removed!
+2018-08-02 07:39:53 INFO      DELETE from metrics WHERE id = 17
+2018-08-02 07:39:59 INFO     Data was inserted!
+2018-08-02 07:39:59 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-02, 15, Admin Time - Coffee)
+2018-08-02 09:02:26 INFO     Data was inserted!
+2018-08-02 09:02:26 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-02, 30, Admin Time - Research)
