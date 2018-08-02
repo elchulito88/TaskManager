@@ -1,10 +1,9 @@
-python util.py -d "2018-07-05" -t 30 -de "Admin Time"
-
-%run -i 'script.py'
-
 Steps for adding a virtual env to Jupyter Notebook
 
+# Commands to create a virtual environment
 python -m venv projectname
 source projectname/bin/activate
-(venv) $ pip install ipykernel
-(venv) $ ipython kernel install --user --name=projectname
+
+# Add the current virtual environment to the jupyter notebook kernel environment.
+(py3) $ pip install ipykernel
+(py3) $ ipython kernel install --user --name=projectname
