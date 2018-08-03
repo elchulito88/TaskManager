@@ -467,3 +467,17 @@
 2018-08-02 10:03:53 INFO      INSERT INTO metrics(Dates, total_time, label_description)
 						VALUES(2018-08-02, 60, CS Weekly Call)
 2018-08-02 10:03:55 INFO     Data was written to csv!
+2018-08-02 13:33:01 INFO     Data was inserted!
+2018-08-02 13:33:01 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-02, 30, Admin Time - Research)
+2018-08-02 13:33:02 INFO     Data was written to csv!
+2018-08-03 07:56:42 INFO     Data was inserted!
+2018-08-03 07:56:42 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-03, 30, Admin Time - Coffee)
+2018-08-03 07:56:45 INFO     Data was written to csv!
+2018-08-03 09:13:08 INFO     Data was inserted!
+2018-08-03 09:13:08 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-03, 15, CS Weekly Call)
+2018-08-03 10:46:47 INFO     Data was inserted!
+2018-08-03 10:46:47 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-03, 30, Admin Time - PP)
