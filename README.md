@@ -1,18 +1,19 @@
 # TaskManager
 
-This project was to keep track of my Utilization by recording my input and output hours on a weekly basis in a SQL database.
+This project was created to keep track of my Utilization time by recording my input and output hours on a weekly basis in a SQL database.
 
 ## To start this project off right. 
 <br> 
 Please do the following:
 <br>
-Create a folder called utilization. 
-Add the TaskManager.ipynb file into that folder.
 <br>
+Create a folder called utilization. 
+<br>
+Add the TaskManager.ipynb file into that folder.
 <br>
 Next create a virtualenv...
 <br>
-Need Python 3!!! 
+<b>Need Python 3!!!</b> 
 <br>
 python -m venv py3
 <br>
@@ -22,4 +23,7 @@ source py3/bin/activate
 <br>
 Next run the following
 <br>
+<br>
 pip install -r requirements.txt
+<br>
+You should be good for now.
