@@ -481,3 +481,33 @@
 2018-08-03 10:46:47 INFO     Data was inserted!
 2018-08-03 10:46:47 INFO      INSERT INTO metrics(Dates, total_time, label_description)
 						VALUES(2018-08-03, 30, Admin Time - PP)
+2018-08-03 11:46:19 INFO     Data was inserted!
+2018-08-03 11:46:19 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-03, 15, Team Time - Showed Jake how to use Gravity App)
+2018-08-03 11:46:21 INFO     Data was written to csv!
+2018-08-03 15:25:23 INFO     Data was inserted!
+2018-08-03 15:25:23 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-03, 30, Team Time - PP)
+2018-08-03 15:25:24 INFO     Data was written to csv!
+2018-08-06 11:54:21 INFO     Data was inserted!
+2018-08-06 11:54:21 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-03, 60, Admin Time)
+2018-08-06 11:54:24 INFO     Data was written to csv!
+2018-08-06 11:54:35 INFO     Data was written to csv!
+2018-08-06 11:54:35 INFO     Data was backed up!
+2018-08-06 11:54:35 INFO     Files were backedup!
+2018-08-06 11:54:45 INFO     Table was dropped!
+2018-08-06 11:54:45 INFO     Table was created!
+2018-08-06 11:54:45 INFO     Data was inserted!
+2018-08-06 11:54:45 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(None, None, None)
+2018-08-06 11:54:48 INFO     Data was removed!
+2018-08-06 11:54:48 INFO      DELETE from metrics WHERE id = 1
+2018-08-06 11:55:02 INFO     Data was inserted!
+2018-08-06 11:55:02 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-06, 30, Admin Time - PP)
+2018-08-06 11:55:03 INFO     Data was written to csv!
+2018-08-06 11:58:13 INFO     Data was inserted!
+2018-08-06 11:58:13 INFO      INSERT INTO metrics(Dates, total_time, label_description)
+						VALUES(2018-08-06, 30, Admin Time - Research)
+2018-08-06 11:58:13 INFO     Data was written to csv!
